@@ -1,4 +1,4 @@
-[Gitsocial.webm](https://github.com/kanishbodhwani/githubsocial/assets/64742906/f18e0303-998d-4a17-a5b7-9dbe3c172151)# GitHubSocial App
+GitHubSocial App [Gitsocial.webm](https://github.com/kanishbodhwani/githubsocial/assets/64742906/f18e0303-998d-4a17-a5b7-9dbe3c172151)# 
 
 GitHubSocial is a mobile app that allows users to search for GitHub users, perform OAuth with GitHub, view user repositories, and check followers. This app is built using React Native and integrates with the GitHub API.
 
@@ -15,8 +15,7 @@ GitHubSocial is a mobile app that allows users to search for GitHub users, perfo
 ## Demo
 
 Check out the demo video to see GitHubSocial in action:
-
-[![GitHubSocial Demo]([https://your-video-embed-link](https://github.com/kanishbodhwani/githubsocial/assets/64742906/f18e0303-998d-4a17-a5b7-9dbe3c172151))
+[Video](https://github.com/kanishbodhwani/githubsocial/assets/64742906/f18e0303-998d-4a17-a5b7-9dbe3c172151)# 
 
 ## Getting Started
 
@@ -30,6 +29,6 @@ To run GitHubSocial on your local machine, follow these steps:
 2. Create a env file in the root folder with your github client id and client secret
 3. Run the command - npm run android
 
-In the README file, I included a section for the demo video with an embedded link (replace `[[Your Video Embed Link](https://github.com/kanishbodhwani/githubsocial/assets/64742906/f18e0303-998d-4a17-a5b7-9dbe3c172151)]` with your actual video link). Additionally, there's a "Getting Started" section to guide users on how to run the app locally, a list of dependencies, and a section on contributing to the project.
+In the README file, I included a section for the demo video with an embedded link. Additionally, there's a "Getting Started" section to guide users on how to run the app locally, a list of dependencies, and a section on contributing to the project.
 
 Feel free to modify this template based on your app's specific details and requirements.
